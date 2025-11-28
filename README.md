@@ -9,29 +9,18 @@ I recently specialized in integrating cutting-edge **AI/LLM technologies**, incl
 ### 🧠 Core Expertise & Focus
 
 <details>
-<summary>Frontend Mastery</summary>
+<summary>Click to view Core Expertise (Frontend, Backend, AI, DevOps)</summary>
 
+#### 💻 Frontend Mastery
 * Deep expertise in **Angular** (TypeScript, NgRx), **Vue.js** (Composition API), and **React** (Hooks, Context/Redux).
 
-</details>
-
-<details>
-<summary>Backend & APIs</summary>
-
+#### 🌐 Backend & APIs
 * Proven ability to design and build secure, streamlined RESTful APIs using **Node.js/Express** and **FastAPI (Python)**.
 
-</details>
-
-<details>
-<summary>AI Integration</summary>
-
+#### 🤖 AI Integration
 * Practical experience implementing **LLM, RAG, and Vector Database (Pinecone)** architectures, leveraging **LangChain** y **Langgraph** for complex prompt orchestration.
 
-</details>
-
-<details>
-<summary>DevOps & Cloud</summary>
-
+#### ☁️ DevOps & Cloud
 * Experienced with CI/CD pipelines, Docker, and cloud platforms like Vercel and Railway for automated, consistent deployments.
 
 </details>
