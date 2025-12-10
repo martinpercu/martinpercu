@@ -1,6 +1,6 @@
 # Hi, I'm Martin E. Mendez 👋
 
-A highly accomplished **Full-Stack Web Developer** with 5+ years of experience, specializing in building **scalable, performant applications** across the modern JavaScript ecosystem (Angular, Vue.js, React).
+A highly accomplished **Full-Stack Web Developer** with 4+ years of experience, specializing in building **scalable, performant applications** across the modern JavaScript ecosystem (Angular, Vue.js, React).
 
 I recently specialized in integrating cutting-edge **AI/LLM technologies**, including **Langchain** and **Langgraph**, to deliver next-generation automation and knowledge delivery solutions.
 
