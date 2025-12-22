@@ -34,11 +34,11 @@ Before tech, I founded two startups. That taught me to ship fast, own problems e
 - 📍 NYC (Green Card holder, no sponsorship needed)
 - 🎸 Music conservatory background → self-taught dev → 40+ technical certifications
 - 🌍 Trilingual: English, French, Spanish
-- 💼 Previously CEO of [Drinkko](https://www.instagram.com/drinkkoapp/) & Founder of 4TIMP.com
+- 💼 Previously CEO of [Drinkko](https://drinkko-web.web.app) & Founder of 4TIMP.com
 
 ---
 
 ### Let's Connect
 
 📧 **info@mart-in.us**  
-🔗 [LinkedIn](https://linkedin.com/in/martinpercu) • [Portfolio](https://mart-in.us) • [Certifications](https://mart-in.us/cert/ai)
+🔗 [LinkedIn](https://www.linkedin.com/in/martin-e-mendez-3a43b564) • [Portfolio](https://mart-in.us) • [Certifications](https://mart-in.us/cert/ai)
