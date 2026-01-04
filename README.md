@@ -14,10 +14,11 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 * Implementing persistent checkpoints (PostgreSQL) and structured outputs to ensure reliability in long-running LLM chains.https://trainer-teacher.web.app
 * **Architecture:** Angular 19 + FastAPI + LangGraph + PostgreSQL.
 
-🔧 **[AI-Trainer-Teacher]([https://trainer-teacher.web.app](https://github.com/martinpercu/AI-Trainer-Teacher))** **Intelligent RAG-powered Educational Platform** [→ live Demo]([https://trainer-teacher.web.app])
+🔧 **[AI-Trainer-Teacher](https://github.com/martinpercu/AI-Trainer-Teacher)** **Intelligent RAG-powered Educational Platform** [→ live demo](https://trainer-teacher.web.app)
 * Engineered a **hierarchical RAG pipeline** with dynamic page filtering, reducing irrelevant context by **70%**.
 * Implemented **history-aware question reformulation** and Redis-backed session persistence for multi-turn learning.
 * **Impact:** Faster retrieval and higher precision by narrowing vector search scope to specific document sections.
+
 
 🛠️ **[LangGraph Agent Templates](https://github.com/martinpercu/Langchain-Langgraph_Agents-Structure)** **Production-Ready Agentic Patterns**
 * A comprehensive repository of 6 core agentic workflows: **ReAct, Orchestrator-Worker, Parallelization, and Evaluator-Optimizer**.
