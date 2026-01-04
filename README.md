@@ -9,15 +9,22 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 
 ### 🚀 Featured Projects
 
-🤖 **[TalentGraph](https://github.com/martinpercu/Langchain-Langgraph_Agents-Structure)** **Production-ready Multi-Agent Recruitment Engine** * Architected a **12-node StateGraph** using **LangGraph** with hierarchical routing and PostgreSQL checkpointing.
-* Optimized performance using a **multi-model strategy** (GPT-4o-mini + Claude Haiku), achieving **<5ms trigger detection**.
-* Implemented **SSE streaming** for real-time candidate screening and automated interview generation.
+🤖 **[TalentGraph](https://github.com/martinpercu/Talent-Graph)** **AI-Powered Recruitment Platform** [→ repo](https://github.com/martinpercu/AI-Trainer-Teacher)
+* Developing an autonomous recruitment agent using **LangGraph** for multi-step HR workflows.
+* Implementing persistent checkpoints (PostgreSQL) and structured outputs to ensure reliability in long-running LLM chains.
+* **Architecture:** Angular 19 + FastAPI + LangGraph + PostgreSQL.
 
-🔧 **[AI-Trainer-Teacher](https://trainer-teacher.web.app)** **Intelligent RAG-powered Educational Platform** * Engineered a **hierarchical RAG pipeline** with dynamic page filtering, reducing irrelevant context by **70%**.
+🔧 **[AI-Trainer-Teacher](https://trainer-teacher.web.app)** **Intelligent RAG-powered Educational Platform**
+* Engineered a **hierarchical RAG pipeline** with dynamic page filtering, reducing irrelevant context by **70%**.
 * Implemented **history-aware question reformulation** and Redis-backed session persistence for multi-turn learning.
-* **Tech Stack:** Angular 19, FastAPI, LangChain, Pinecone, Redis.
+* **Impact:** Faster retrieval and higher precision by narrowing vector search scope to specific document sections.
 
-🔐 **[OAuth 2.0 & JWT Flows](https://github.com/martinpercu/JWT-OAuth-flows)** **The "Security First" Guide** * Deep-dive implementations of Auth Code, PKCE, and Client Credentials. Real-world integrations with Spotify, Discord, and Twitch APIs.
+🛠️ **[LangGraph Agent Templates](https://github.com/martinpercu/Langchain-Langgraph_Agents-Structure)** **Production-Ready Agentic Patterns**
+* A comprehensive repository of 6 core agentic workflows: **ReAct, Orchestrator-Worker, Parallelization, and Evaluator-Optimizer**.
+* Features modular architecture with Jinja2 prompting and PostgreSQL checkpointing for stateful conversations.
+
+🔐 **[OAuth 2.0 & JWT Flows](https://github.com/martinpercu/JWT-OAuth-flows)** **Security Implementation Guide**
+* Deep-dive implementations of Auth Code, PKCE, and Client Credentials. Real-world integrations with Spotify, Discord, and Twitch APIs using **JWT**.
 
 ---
 
