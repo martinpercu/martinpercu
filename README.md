@@ -9,7 +9,7 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 
 ### 🚀 Featured Projects
 
-🤖 **[TalentGraph](https://github.com/martinpercu/Talent-Graph)** **AI-Powered Recruitment Platform**
+🤖 **[TalentGraph](https://github.com/martinpercu/Talent-Graph)** **AI-Powered Recruitment Platform** [→ live demo]([https://trainer-teacher.web.app](https://talent-graph.web.app)   
 * Developing an autonomous recruitment agent using **LangGraph** for multi-step HR workflows.
 * Implementing persistent checkpoints (PostgreSQL) and structured outputs to ensure reliability in long-running LLM chains.
 * **Architecture:** Angular 19 + FastAPI + LangGraph + PostgreSQL.
