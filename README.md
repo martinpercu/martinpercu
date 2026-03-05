@@ -22,7 +22,7 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 * **Performance**: Features **Silent Loading** and heuristic routing, achieving a 70% reduction in context-related latency.
 * **Architecture:** Angular 19 (Signals) + FastAPI + LangGraph + PostgreSQL (Checkpoints).
 
-🎓 **[AI-Trainer-Teacher](https://github.com/martinpercu/AI-Trainer-Teacher)** **Intelligent RAG-powered Educational Platform** [→ live demo](https://trainer-teacher.web.app)
+📚 **[AI-Trainer-Teacher](https://github.com/martinpercu/AI-Trainer-Teacher)** **Intelligent RAG-powered Educational Platform** [→ live demo](https://trainer-teacher.web.app)
 * Engineered a **hierarchical RAG pipeline** with dynamic page filtering, reducing irrelevant context by **70%**.
 * Implemented **history-aware question reformulation** and Redis-backed session persistence for multi-turn learning.
 * **Impact:** Faster retrieval and higher precision by narrowing vector search scope to specific document sections.
