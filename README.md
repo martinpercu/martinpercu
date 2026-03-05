@@ -16,9 +16,11 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 * **Architecture**: Next.js 16 (React 19) + FastAPI + LangGraph + Odoo XML-RPC.
 
 🤖 **[TalentGraph](https://github.com/martinpercu/Talent-Graph)** **AI-Powered Recruitment Platform** [→ live demo](https://talent-graph.web.app)
-* Developing an autonomous recruitment agent using **LangGraph** for multi-step HR workflows.
-* Implementing persistent checkpoints (PostgreSQL) and structured outputs to ensure reliability in long-running LLM chains.
-* **Architecture:** Angular 19 + FastAPI + LangGraph + PostgreSQL.
+* Developed a **34-node LangGraph agent** with a multi-level detection system for ultra-low latency (<10ms for Fast Paths).
+* **Multi-modal I/O**: Integrated **Speech-to-Text (Groq Whisper)** and **Text-to-Speech (Kokoro ONNX)** with synchronized streaming.
+* **Autonomous Workflows**: Implemented **MCP integration** for automated Google Calendar scheduling and Gmail management.
+* **Performance**: Features **Silent Loading** and heuristic routing, achieving a 70% reduction in context-related latency.
+* **Architecture:** Angular 19 (Signals) + FastAPI + LangGraph + PostgreSQL (Checkpoints).
 
 🔧 **[AI-Trainer-Teacher](https://github.com/martinpercu/AI-Trainer-Teacher)** **Intelligent RAG-powered Educational Platform** [→ live demo](https://trainer-teacher.web.app)
 * Engineered a **hierarchical RAG pipeline** with dynamic page filtering, reducing irrelevant context by **70%**.
