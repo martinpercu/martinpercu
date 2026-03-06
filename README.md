@@ -3,8 +3,6 @@
 **Full-Stack Engineer & AI Solutions Architect** based in **NYC**.  
 I specialize in building autonomous AI agents and scalable web architectures. With a background as a **2x Founder**, I bridge the gap between complex engineering and business impact.
 
-**[US Permanent Resident - Ready for On-site roles in NYC]**
-
 ---
 
 ### 🚀 Featured Projects
