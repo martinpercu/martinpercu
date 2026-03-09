@@ -7,7 +7,7 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 
 ### 🚀 Featured Projects
 
-🎙️ **[Odoo AI Agent](https://github.com/martinpercu/odoo-agent-front)** **Production-Grade ERP Conversational Interface**
+🤖 **[Odoo AI Agent](https://github.com/martinpercu/odoo-agent-front)** **Production-Grade ERP Conversational Interface**
 * Developed a **21-node LangGraph pipeline** enabling complex natural language interaction with Odoo ERP modules (Sales, Inventory, Finance, CRM).
 * **Safe CRUD Operations**: Implemented strict confirmation gates and interactive ambiguity resolution cards to ensure zero accidental data modifications.
 * **Advanced UI/UX**: Features **SSE streaming**, voice-to-voice (Whisper STT + Kokoro TTS), and real-time analytics with auto-generated Excel/PDF exports.
