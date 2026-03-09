@@ -10,7 +10,7 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 🤖 **[Odoo AI Agent](https://github.com/martinpercu/odoo-agent-front)** **Production-Grade ERP Conversational Interface**
 * Developed a **21-node LangGraph pipeline** enabling complex natural language interaction with Odoo ERP modules (Sales, Inventory, Finance, CRM).
 * **Safe CRUD Operations**: Implemented strict confirmation gates and interactive ambiguity resolution cards to ensure zero accidental data modifications.
-* **Advanced UI/UX**: Features **SSE streaming**, voice-to-voice (Whisper STT + Kokoro TTS), and real-time analytics with auto-generated Excel/PDF exports.
+* **Data-Driven UX**: Features **SSE streaming** for real-time responses, integrated live analytics, and automated Excel/PDF reporting engine.
 * **Architecture**: Next.js 16 (React 19) + FastAPI + LangGraph + Odoo XML-RPC.
 
 🎯 **[TalentGraph](https://github.com/martinpercu/Talent-Graph)** **AI-Powered Recruitment Platform** [→ live demo](https://talent-graph.web.app)
