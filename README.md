@@ -1,6 +1,6 @@
 # Hey, I'm Martin 👋
 
-**Full-Stack Engineer & AI Solutions Architect** based in **NYC**.  
+**AI Solution Architect & Full-Stack Engineer** based in **NYC**.  
 I specialize in building autonomous AI agents and scalable web architectures. With a background as a **2x Founder**, I bridge the gap between complex engineering and business impact.
 
 ---
