@@ -7,7 +7,7 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 
 ### 🚀 Featured Projects
 
-🎙️ **[ARS — Adaptive Restaurant Speech](https://github.com/martinpercu/adaptive-restaurant-asr)** **An ASR engineering deep-dive** *(exploration, not a product)*
+🎙️🍔 **[ARS — Adaptive Restaurant Speech](https://github.com/martinpercu/adaptive-restaurant-asr)** + **[Menu Detector](https://github.com/martinpercu/menu-detector)** **Bilingual Voice-to-Intent Pipeline** *(exploration, not a product)*
 * A hands-on study of a problem I find fascinating: **bilingual (es + en) speech recognition in drive-thru noise** — built as a self-improving pipeline (noise lab → **LoRA fine-tuning** → rule-based correction) to *measure* what actually helps, not assume it.
 * Everything is gated: a **Noise Damage Index** ranks noise types by measured WER/KER damage, denoisers that sound cleaner but transcribe worse get auto-rejected, and every shortcut is documented in an [honest build report](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/BUILD-REPORT.md) — bugs included.
 * Comes with [design reflections](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/docs/BEYOND-THE-BUILD.md) on where systems like this should go: the acoustic front-end, the ASR→NLU handoff, and measuring user friction beyond WER.
