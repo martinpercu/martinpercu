@@ -7,12 +7,6 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 
 ### 🚀 Featured Projects
 
-🎙️🍔 **[ARS — Adaptive Restaurant Speech](https://github.com/martinpercu/adaptive-restaurant-asr)** + **[Menu Detector](https://github.com/martinpercu/menu-detector)** **Bilingual Voice-to-Intent Pipeline** *(exploration, not a product)*
-* Menu Detector [→ live demo](https://menu-detector-production.up.railway.app/)
-* A hands-on study of a problem I find fascinating: **bilingual (es + en) speech recognition in drive-thru noise** — built as a self-improving pipeline (noise lab → **LoRA fine-tuning** → rule-based correction) to *measure* what actually helps, not assume it.
-* Everything is gated: a **Noise Damage Index** ranks noise types by measured WER/KER damage, denoisers that sound cleaner but transcribe worse get auto-rejected, and every shortcut is documented in an [honest build report](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/BUILD-REPORT.md) — bugs included.
-* Comes with [design reflections](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/docs/BEYOND-THE-BUILD.md) on where systems like this should go: the acoustic front-end, the ASR→NLU handoff, and measuring user friction beyond WER.
-
 🤖 **[Odoo AI Agent](https://github.com/martinpercu/odoo-agent-front)** **Production-Grade Voice-Enabled ERP Assistant** [→ live demo](https://theodooagent.com)
 * Developed a **21-node LangGraph pipeline** enabling complex natural language interaction with Odoo ERP modules (Sales, Inventory, Finance, CRM).
 * **Voice interface**: **Speech-to-Text (Groq Whisper)** + **Text-to-Speech (Kokoro ONNX)** with synchronized streaming — talk to your ERP.
@@ -26,6 +20,12 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 * **Autonomous Workflows**: Implemented **MCP integration** for automated Google Calendar scheduling and Gmail management.
 * **Performance**: Features **Silent Loading** and heuristic routing, achieving a 70% reduction in context-related latency.
 * **Architecture:** Angular 19 (Signals) + FastAPI + LangGraph + PostgreSQL (Checkpoints).
+
+🎙️🍔 **[ARS — Adaptive Restaurant Speech](https://github.com/martinpercu/adaptive-restaurant-asr)** + **[Menu Detector](https://github.com/martinpercu/menu-detector)** **Bilingual Voice-to-Intent Pipeline** *(exploration, not a product)*
+* Menu Detector [→ live demo](https://menu-detector-production.up.railway.app/)
+* A hands-on study of a problem I find fascinating: **bilingual (es + en) speech recognition in drive-thru noise** — built as a self-improving pipeline (noise lab → **LoRA fine-tuning** → rule-based correction) to *measure* what actually helps, not assume it.
+* Everything is gated: a **Noise Damage Index** ranks noise types by measured WER/KER damage, denoisers that sound cleaner but transcribe worse get auto-rejected, and every shortcut is documented in an [honest build report](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/BUILD-REPORT.md) — bugs included.
+* Comes with [design reflections](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/docs/BEYOND-THE-BUILD.md) on where systems like this should go: the acoustic front-end, the ASR→NLU handoff, and measuring user friction beyond WER.
 
 📚 **[AI-Trainer-Teacher](https://github.com/martinpercu/AI-Trainer-Teacher)** **Intelligent RAG-powered Educational Platform** [→ live demo](https://trainer-teacher.web.app)
 * Engineered a **hierarchical RAG pipeline** with dynamic page filtering, reducing irrelevant context by **70%**.
