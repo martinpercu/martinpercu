@@ -8,11 +8,43 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 ### 🚀 Featured Projects
 
 🤖 **[Odoo AI Agent](https://github.com/martinpercu/odoo-agent-front)** **Production-Grade Voice-Enabled ERP Assistant** [→ live demo](https://theodooagent.com)
-* Developed a **21-node LangGraph pipeline** enabling complex natural language interaction with Odoo ERP modules (Sales, Inventory, Finance, CRM).
-* **Voice interface**: **Speech-to-Text (Groq Whisper)** + **Text-to-Speech (Kokoro ONNX)** with synchronized streaming — talk to your ERP.
-* **Safe CRUD Operations**: strict confirmation gates and interactive ambiguity resolution cards to ensure zero accidental data modifications.
-* **Data-Driven UX**: **SSE streaming** for real-time responses, integrated live analytics, and automated Excel/PDF reporting engine.
-* **Architecture**: Next.js 16 (React 19) + FastAPI + LangGraph + Odoo XML-RPC.
+
+A voice-enabled AI agent that connects natural language to real business workflows in Odoo ERP.
+
+Built as a multi-tenant SaaS application, combining a Next.js frontend with a FastAPI backend orchestrating a **21-node LangGraph** agent.
+
+* **Agent architecture:** Keyword-first routing, LLM fallback, query planning, validation and execution.
+* **Controlled actions:** Entity resolution, clarification workflows and confirmation-gated CRUD.
+* **Production-oriented engineering:** Multi-tenant authentication, role-based access control, SSE streaming, computed analytics, OCR, exports and Stripe billing.
+* **Voice interface**: **Speech-to-Text (Groq Whisper)** + **Text-to-Speech (Kokoro ONNX)** with synchronized streaming
+* **Quality engineering:** 2,000+ unit/characterization tests and 180+ documented end-to-end evaluation scenarios.
+
+**Stack:** Next.js · React · FastAPI · LangGraph · PostgreSQL (Checkpoints) · Odoo XML-RPC 
+
+
+🎯 **[TalentGraph](https://github.com/martinpercu/Talent-Graph)** **AI-Powered Voice Recruitment Platform** [→ live demo](https://talent-graph.web.app)
+
+A full-stack recruitment platform built around a LangGraph agent, combining candidate screening, recruiter workflows, resume analysis, and conversational AI.
+
+* **Agent orchestration:** 34 specialized nodes, conditional routing, and optimized fast paths.
+* **Multi-model architecture:** OpenAI and Anthropic models for different tasks.
+* **Workflow automation:** MCP integrations for Google Calendar and Gmail.
+* **Real-time experience:** Streaming conversations, voice interaction, and PostgreSQL-backed agent state.
+
+**Stack:** Angular 19 · FastAPI · LangGraph · PostgreSQL · MCP
+
+📚 **[AI-Trainer-Teacher](https://github.com/martinpercu/AI-Trainer-Teacher)** **Intelligent RAG-powered Educational Platform** [→ live demo](https://trainer-teacher.web.app)
+
+An AI-powered educational platform combining document-grounded assistance, adaptive assessments, and course management.
+
+* **Context-aware RAG:** PDF retrieval with section-specific filtering and question reformulation.
+* **Adaptive assessments:** Timed exams, automatic saving, and session recovery.
+* **Learning management:** Administrative dashboards for courses, educational content, exams, and student progress.
+
+**Stack:** Angular 19 · FastAPI · LangChain · Firebase · Vector Search
+
+---
+
 
 🎙️🍔 **[ARS — Adaptive Restaurant Speech](https://github.com/martinpercu/adaptive-restaurant-asr)** + **[Menu Detector](https://github.com/martinpercu/menu-detector)** **Bilingual Voice-to-Intent Pipeline** *(exploration, not a product)*
 * Menu Detector [→ live demo](https://menu-detector-production.up.railway.app/)
@@ -20,17 +52,7 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 * Everything is gated: a **Noise Damage Index** ranks noise types by measured WER/KER damage, denoisers that sound cleaner but transcribe worse get auto-rejected, and every shortcut is documented in an [honest build report](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/BUILD-REPORT.md) — bugs included.
 * Comes with [design reflections](https://github.com/martinpercu/adaptive-restaurant-asr/blob/main/docs/BEYOND-THE-BUILD.md) on where systems like this should go: the acoustic front-end, the ASR→NLU handoff, and measuring user friction beyond WER.
 
-🎯 **[TalentGraph](https://github.com/martinpercu/Talent-Graph)** **AI-Powered Voice Recruitment Platform** [→ live demo](https://talent-graph.web.app)
-* Developed a **34-node LangGraph agent** with a multi-level detection system for ultra-low latency (<10ms for Fast Paths).
-* **Multi-modal I/O**: Integrated **Speech-to-Text (Groq Whisper)** and **Text-to-Speech (Kokoro ONNX)** with synchronized streaming.
-* **Autonomous Workflows**: Implemented **MCP integration** for automated Google Calendar scheduling and Gmail management.
-* **Performance**: Features **Silent Loading** and heuristic routing, achieving a 70% reduction in context-related latency.
-* **Architecture:** Angular 19 (Signals) + FastAPI + LangGraph + PostgreSQL (Checkpoints).
 
-📚 **[AI-Trainer-Teacher](https://github.com/martinpercu/AI-Trainer-Teacher)** **Intelligent RAG-powered Educational Platform** [→ live demo](https://trainer-teacher.web.app)
-* Engineered a **hierarchical RAG pipeline** with dynamic page filtering, reducing irrelevant context by **70%**.
-* Implemented **history-aware question reformulation** and Redis-backed session persistence for multi-turn learning.
-* **Impact:** Faster retrieval and higher precision by narrowing vector search scope to specific document sections.
 
 *Also on the shelf:* [LangGraph agent templates](https://github.com/martinpercu/Langchain-Langgraph_Agents-Structure) (6 production-ready agentic patterns) · [OAuth 2.0 & JWT deep-dives](https://github.com/martinpercu/JWT-OAuth-flows) (PKCE, Auth Code, real-world API integrations).
 
@@ -73,9 +95,11 @@ I build AI-powered business systems end to end — from agent orchestration and 
 
 With a background as a founder and software engineer, I focus on solving real business problems through thoughtful architecture, practical AI, and complete software products.
 
-## 🚀 Featured Projects
+---
 
-### 🤖 Odoo AI Agent — AI-Powered ERP Assistant
+### 🚀 Featured Projects
+
+### 🤖 Odoo AI Agent — AI-Powered ERP Assistant  [→ live demo](https://theodooagent.com)
 
 A voice-enabled AI agent that connects natural language to real business workflows in Odoo ERP.
 
@@ -91,7 +115,7 @@ Built as a multi-tenant SaaS application, combining a Next.js frontend with a Fa
 *The frontend source is public; the backend implementation is private. The architecture document describes the backend design and interfaces.*
 <br><br>
 
-### 🎯 [TalentGraph](https://github.com/martinpercu/Talent-Graph) — AI-Powered Hiring Platform
+### 🎯 [TalentGraph](https://github.com/martinpercu/Talent-Graph) — AI-Powered Hiring Platform  [→ live demo](https://talent-graph.web.app)
 
 A full-stack recruitment platform built around a LangGraph agent, combining candidate screening, recruiter workflows, resume analysis, and conversational AI.
 
@@ -105,7 +129,7 @@ A full-stack recruitment platform built around a LangGraph agent, combining cand
 [Repository](https://github.com/martinpercu/Talent-Graph) · [Live Demo](https://talent-graph.web.app)
 <br><br>
 
-### 📚 [AI Trainer Teacher](https://github.com/martinpercu/AI-Trainer-Teacher) — RAG-Powered Learning Platform
+### 📚 [AI Trainer Teacher](https://github.com/martinpercu/AI-Trainer-Teacher) — RAG-Powered Learning Platform  [→ live demo](https://trainer-teacher.web.app)
 
 An AI-powered educational platform combining document-grounded assistance, adaptive assessments, and course management.
 
