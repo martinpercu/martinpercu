@@ -1,5 +1,10 @@
 # Hey, I'm Martin 👋
 
+**AI Solutions Architect
+
+
+# Hey, I'm Martin 👋
+
 **AI Solutions Architect & Full-Stack Engineer · NYC**
 
 I build AI-powered business systems end to end — from agent orchestration and backend integrations to the interfaces and workflows people actually use.
