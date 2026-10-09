@@ -7,6 +7,22 @@ I specialize in building autonomous AI agents and scalable web architectures. Wi
 
 ### 🚀 Featured Projects
 
+### 🤖 Odoo AI Agent — AI-Powered ERP Assistant
+
+A voice-enabled AI agent that connects natural language to real business workflows in Odoo ERP.
+
+Built as a multi-tenant SaaS application, combining a Next.js frontend with a FastAPI backend orchestrating a 21-node LangGraph agent.
+
+* **Agent architecture:** Keyword-first routing, LLM fallback, query planning, validation and execution.
+* **Controlled actions:** Entity resolution, clarification workflows and confirmation-gated CRUD.
+* **Production-oriented engineering:** Multi-tenant authentication, role-based access control, SSE streaming, computed analytics, OCR, exports and Stripe billing.
+* **Quality engineering:** 2,000+ unit/characterization tests and 180+ documented end-to-end evaluation scenarios.
+
+[Frontend Source Code](https://github.com/martinpercu/Odoo-AI-Agent) · [Backend Architecture](https://github.com/martinpercu/Odoo-AI-Agent/blob/main/documents/BACKEND_ARCHITECTURE.md) · [Live Demo](https://theodooagent.com)
+
+*The frontend source is public; the backend implementation is private. The architecture document describes the backend design and interfaces.*
+
+
 🤖 **[Odoo AI Agent](https://github.com/martinpercu/odoo-agent-front)** **Production-Grade Voice-Enabled ERP Assistant** [→ live demo](https://theodooagent.com)
 * Developed a **21-node LangGraph pipeline** enabling complex natural language interaction with Odoo ERP modules (Sales, Inventory, Finance, CRM).
 * **Voice interface**: **Speech-to-Text (Groq Whisper)** + **Text-to-Speech (Kokoro ONNX)** with synchronized streaming — talk to your ERP.
