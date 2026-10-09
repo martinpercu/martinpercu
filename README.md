@@ -8,21 +8,20 @@ With a background as a founder and software engineer, I focus on solving real bu
 
 ## 🚀 Featured Projects
 
-### 🤖 [Odoo AI Agent](https://github.com/martinpercu/Odoo-AI-Agent) — AI-Powered ERP Assistant
+### 🤖 Odoo AI Agent — AI-Powered ERP Assistant
 
-A voice-enabled AI assistant that connects natural language to real business workflows in Odoo ERP.
+A voice-enabled AI agent that connects natural language to real business workflows in Odoo ERP.
 
-* **Agent architecture:** 21-node LangGraph backend covering Sales, CRM, Inventory, and Finance.
-* **Controlled execution:** Entity resolution, ambiguity handling, and confirmation gates for write operations.
-* **Real-time interaction:** SSE streaming, voice input/output, and interactive responses.
-* **Business workflows:** Analytics dashboards, OCR, proactive notifications, and Excel/PDF reporting.
-* **SaaS architecture:** Multi-tenant application with authentication, role-based access, and subscription management.
+Built as a multi-tenant SaaS application, combining a Next.js frontend with a FastAPI backend orchestrating a 21-node LangGraph agent.
 
-**Stack:** Next.js · React · FastAPI · LangGraph · Odoo XML-RPC
+* **Agent architecture:** Keyword-first routing, LLM fallback, query planning, validation and execution.
+* **Controlled actions:** Entity resolution, clarification workflows and confirmation-gated CRUD.
+* **Production-oriented engineering:** Multi-tenant authentication, role-based access control, SSE streaming, computed analytics, OCR, exports and Stripe billing.
+* **Quality engineering:** 2,000+ unit/characterization tests and 180+ documented end-to-end evaluation scenarios.
 
-[Frontend Repository](https://github.com/martinpercu/Odoo-AI-Agent) · [Backend Architecture](https://github.com/martinpercu/Odoo-AI-Agent/blob/main/documents/BACKEND_ARCHITECTURE.md) · [Live Demo](https://theodooagent.com)
+[Frontend Source Code](https://github.com/martinpercu/Odoo-AI-Agent) · [Backend Architecture](https://github.com/martinpercu/Odoo-AI-Agent/blob/main/documents/BACKEND_ARCHITECTURE.md) · [Live Demo](https://theodooagent.com)
 
-*The frontend source code is public. The backend implementation is private; its architecture is documented publicly.*
+*The frontend source is public; the backend implementation is private. The architecture document describes the backend design and interfaces.*
 
 ### 🎯 [TalentGraph](https://github.com/martinpercu/Talent-Graph) — AI-Powered Hiring Platform
 
