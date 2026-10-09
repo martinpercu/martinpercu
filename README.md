@@ -96,18 +96,7 @@ A confidence-aware pipeline that transforms noisy speech-to-text output into str
 
 ## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/martin-e-mendez-3a43b564/) · [Portfolio](https://mart-in.us) · [Certifications](https://mart-in.us)
-
-
-
-
-
----
-
-### 🤝 Let's Connect
-
-📧 [info@mart-in.us](mailto:info@mart-in.us)  
-🔗 [LinkedIn](https://www.linkedin.com/in/martin-e-mendez-3a43b564) • [Portfolio](https://mart-in.us) • [Certifications](https://mart-in.us/cert/ai)
+📧 [info@mart-in.us](mailto:info@mart-in.us) • [LinkedIn](https://www.linkedin.com/in/martin-e-mendez-3a43b564/) · [Portfolio](https://mart-in.us) · [Certifications](https://mart-in.us)
 
 ---
 *"The quick shall inherit the earth. I ship clean, performant code every week — measured, not assumed."*
