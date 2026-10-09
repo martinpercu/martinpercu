@@ -51,7 +51,7 @@ An AI-powered educational platform combining document-grounded assistance, adapt
 
 ### 🔬 Applied AI Experiments
 
-🎙️ **[Adaptive Restaurant ASR](https://github.com/martinpercu/adaptive-restaurant-asr)**  [→ live demo](https://theodooagent.com)
+🎙️ **[Adaptive Restaurant ASR](https://github.com/martinpercu/adaptive-restaurant-asr)**
 
 An exploration of bilingual Spanish/English speech recognition in noisy restaurant and drive-thru environments, using noise diagnostics, model adaptation, and evaluation pipelines.
 [Public Repository](https://github.com/martinpercu/adaptive-restaurant-asr)
