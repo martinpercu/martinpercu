@@ -23,6 +23,7 @@ Built as a multi-tenant SaaS application, combining a Next.js frontend with a Fa
 
 *The frontend source is public; the backend implementation is private. The architecture document describes the backend design and interfaces.*
 
+<br><br>
 ### 🎯 [TalentGraph](https://github.com/martinpercu/Talent-Graph) — AI-Powered Hiring Platform
 
 A full-stack recruitment platform built around a LangGraph agent, combining candidate screening, recruiter workflows, resume analysis, and conversational AI.
@@ -36,6 +37,7 @@ A full-stack recruitment platform built around a LangGraph agent, combining cand
 
 [Repository](https://github.com/martinpercu/Talent-Graph) · [Live Demo](https://talent-graph.web.app)
 
+<br><br>
 ### 📚 [AI Trainer Teacher](https://github.com/martinpercu/AI-Trainer-Teacher) — RAG-Powered Learning Platform
 
 An AI-powered educational platform combining document-grounded assistance, adaptive assessments, and course management.
@@ -48,6 +50,7 @@ An AI-powered educational platform combining document-grounded assistance, adapt
 
 [Repository](https://github.com/martinpercu/AI-Trainer-Teacher) · [Live Demo](https://trainer-teacher.web.app)
 
+<br><br>
 ## 🔬 Applied AI Experiments
 
 ### 🎙️ [Adaptive Restaurant ASR](https://github.com/martinpercu/adaptive-restaurant-asr)
@@ -55,13 +58,14 @@ An AI-powered educational platform combining document-grounded assistance, adapt
 An exploration of bilingual Spanish/English speech recognition in noisy restaurant and drive-thru environments, using noise diagnostics, model adaptation, and evaluation pipelines.
 [Public Repository](https://github.com/martinpercu/adaptive-restaurant-asr)
 
+<br><br>
 ### 🍔 Menu Detector — Deterministic Speech-to-Order
 
 A confidence-aware pipeline that transforms noisy speech-to-text output into structured restaurant orders validated against a known menu. It handles corrections, bilingual phrasing, and ambiguous items without silently guessing.
 [Interactive Demo](https://menu-detector-production.up.railway.app)
-
 *The Menu Detector implementation is private.*
 
+<br><br>
 ## 🛠️ Technical Focus
 
 | Area                      | Technologies                                                       |
