@@ -53,13 +53,11 @@ An AI-powered educational platform combining document-grounded assistance, adapt
 ### 🎙️ [Adaptive Restaurant ASR](https://github.com/martinpercu/adaptive-restaurant-asr)
 
 An exploration of bilingual Spanish/English speech recognition in noisy restaurant and drive-thru environments, using noise diagnostics, model adaptation, and evaluation pipelines.
-
 [Public Repository](https://github.com/martinpercu/adaptive-restaurant-asr)
 
 ### 🍔 Menu Detector — Deterministic Speech-to-Order
 
 A confidence-aware pipeline that transforms noisy speech-to-text output into structured restaurant orders validated against a known menu. It handles corrections, bilingual phrasing, and ambiguous items without silently guessing.
-
 [Interactive Demo](https://menu-detector-production.up.railway.app)
 
 *The Menu Detector implementation is private.*
